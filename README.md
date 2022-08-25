@@ -1,3 +1,3 @@
-# Sam_MVC_API
+# Practice_MVC_API
 
 Building components and testing piece by piece
